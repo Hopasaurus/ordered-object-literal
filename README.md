@@ -1,5 +1,14 @@
 # @stoplight/ordered-object-literal
 
+## WARNING:
+
+I made this work in a create-react-app app but I really am not sure if it is the right thing to do.  
+
+Don't try this at home. 
+
+I will (perhaps) investigate it further and see about a real fix that makes sense.
+
+
 ## Install
 
 Do not use it if you can use maps.
